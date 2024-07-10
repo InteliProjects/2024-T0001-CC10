@@ -15,16 +15,17 @@ Gerar um modelo de visão computacional para regiões agrícolas da Região Sul 
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - Mockingjay
-  - Link do repositório: https://github.com/InteliProjects/2024-T0001-CC10-G01
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T01-CC10-G01
 
 - Grupo 2 - Agro é Tech
-  - Link do repositório: https://github.com/InteliProjects/2024-T0001-CC10-G02
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T01-CC10-G02
 
 - Grupo 3 - T de Talhão
-  - Link do repositório: https://github.com/InteliProjects/2024-T0001-CC10-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T01-CC10-G03
 
 - Grupo 4 - Grupo4
-  - Link do repositório: https://github.com/InteliProjects/2024-T0001-CC10-G04
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T01-CC10-G04
 
 - Grupo 5 - Greenfield
-  - Link do repositório: https://github.com/InteliProjects/2024-T0001-CC10-G05
+  - Link do repositório: https://github.com/InteliProjects/2024-1B-T01-CC10-G05
+
